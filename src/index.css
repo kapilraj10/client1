@@ -1,0 +1,12 @@
+@import "tailwindcss";
+:root {
+  --surface: #f7f3ff;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: var(--surface);
+}
